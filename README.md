@@ -162,7 +162,7 @@ APP_CONFIG = {
 
 ## 👨‍💻 作者
 
-- GitHub: WLFNB
+- GitHub: wulvfeng
 
 ## 🙏 致谢
 
